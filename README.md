@@ -1,0 +1,1 @@
+lien_vidéo =https://www.linkedin.com/posts/boulkadi-abde_datascience-machinelearning-streamlit-activity-7320375528287322112-5unx?utm_source=share&utm_medium=member_android&rcm=ACoAAFm4ZD4BZGh9tHwWHtc3D7u4f6ByZFNnJIY
